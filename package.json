@@ -1,0 +1,8 @@
+{
+  "name": "benton-k9-site",
+  "version": "0.1.0",
+  "description": "Static shell for Benton K9 handling & training website",
+  "scripts": {
+    "start": "npx http-server . -p 5000"
+  }
+}
